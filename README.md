@@ -1,0 +1,4 @@
+# TP2
+PARTIE 1 
+PARTIE 2
+PARTIE 3   : 2/3
